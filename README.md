@@ -3,7 +3,7 @@ Hello, GitHub! 👋
 I'm Josiegh, a student at Brigham Young University-Idaho interested in Child Development welcome to my GitHub profile!
 
 - I'm currently learning how to do a handstand
-- My goals are to stay consistant in the gym, and find my dream job
+- My goals are to stay phsically active, and findinf my dream job of working with children
 - Ask me about where all I have been
 
 - Proficient in: English
