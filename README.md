@@ -1,16 +1,13 @@
-## Hi there 👋
+Josiegh Burch
+Hello, GitHub! 👋
+I'm Josiegh, a student at Brigham Young University-Idaho interested in Child Development welcome to my GitHub profile!
 
-<!--
-**JosieghAnna/josieghanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm currently learning how to do a handstand
+- My goals are to stay consistant in the gym, and find my dream job
+- Ask me about where all I have been
 
-Here are some ideas to get you started:
+- Proficient in: English
+- Skills: Problem solving, independent
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is my LinkedIn- (https://www.linkedin.com/in/josiegh-burch/)
+Feel free to explore my repositories and don't hesitate to reach out!
